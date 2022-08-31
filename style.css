@@ -5,8 +5,6 @@
   }
   
   body {
-    background-image: url(https://img.freepik.com/fotos-gratis/interior-do-restaurante_1127-3394.jpg?w=1380&t=st=1661012642~exp=1661013242~hmac=7de9e15b69d8286be08136705f4b8090dde251a4d8ed3888f14fd2b7233e79b0);
-    background-size: cover;
     background-color: #FFEDD5; /* hex: 0-F */
     font-family: 'Roboto', sans-serif;
   }
